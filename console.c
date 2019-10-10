@@ -3,7 +3,7 @@
 // Output is written to the screen and serial port.
 
 #include "types.h"
-#include "defs.h"
+#include "d
 #include "param.h"
 #include "traps.h"
 #include "spinlock.h"
